@@ -1,5 +1,5 @@
 <div>
-  <img src="cover.png" alt="Muhammad Uzair"/>
+  <img src="cover1.png" alt="Muhammad Uzair"/>
 </div>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=uzair354123&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad Uzair" /> </p>
