@@ -1,7 +1,4 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=uzair354123&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad Uzair" /> </p>
-- 🌱 I’m currently learning **MERN**
-
-- 🤝 I’m looking for help with **MERN**
 
 - 💬 Ask me about **WordPress, PHP, MongoDB, Express, React, Node, jQuery, JavaScript, MySQL**
 
