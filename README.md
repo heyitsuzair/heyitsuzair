@@ -4,7 +4,7 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=uzair354123&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad Uzair" /> </p>
 
-- 💬 Ask me about **WordPress, PHP, MongoDB, Express, React, Node, jQuery, JavaScript, MySQL, Bootstrap, Material Ui, Firebase**
+- 💬 Ask me about **WordPress, PHP, Express, React, React Native, Node, jQuery, JavaScript, MySQL, Bootstrap, Material Ui, Firebase**
 
 - 📫 How to reach me **uzairdevil354123@gmail.com**
 
