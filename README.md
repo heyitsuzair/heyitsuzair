@@ -4,7 +4,7 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=uzair354123&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad Uzair" /> </p>
 
-- 💬 Ask me about **WordPress, PHP, Express, React, React Native, Node, jQuery, JavaScript, MySQL, Bootstrap, Material Ui, Firebase**
+- 💬 Ask me about **WordPress, PHP, Laravel, Express, React, React Native, Node, jQuery, JavaScript, MySQL, Bootstrap, MUi, Firebase**
 
 - 📫 How to reach me **uzairdevil354123@gmail.com**
 
@@ -21,5 +21,6 @@
 <a href="https://mui.com/core" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/materialui/materialui-plain.svg" alt="Material UI" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Material UI" width="40" height="40"/> </a>
 <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Material UI" width="40" height="40"/> </a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/> </a>
 
 </p>
