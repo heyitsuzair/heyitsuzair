@@ -1,8 +1,8 @@
 <div>
-<h2 align="center">
+<h2 align="center" style="border:none !important;">
   Hi 👋, I'm Muhammad Uzair
 </h2>
-<h2 align="center">
+<h2 align="center" style="border:none !important;">
   A young-dumb 🤓 Software Enginner from Pakistan
 </h2>
 </div>
