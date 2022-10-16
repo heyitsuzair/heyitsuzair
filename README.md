@@ -1,5 +1,10 @@
 <div>
-  <img src="cover1.png" alt="Muhammad Uzair"/>
+<div>
+  Hi 👋, I'm Muhammad Uzair
+</div>
+<div>
+  A young-dumb 🤓 Software Enginner from Pakistan PK
+</div>
 </div>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=uzair354123&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad Uzair" /> </p>
@@ -25,5 +30,4 @@
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/> </a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SaaS" width="40" height="40"/> </a>
 </p>
-<h3 align="left">Hacktoberfests:</h3>
-[![@heyitsuzair's Holopin board](https://holopin.me/heyitsuzair)](https://holopin.io/@heyitsuzair)
+
