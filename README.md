@@ -3,7 +3,7 @@
   Hi 👋, I'm Muhammad Uzair
 </h2>
 <h2 align="center">
-  A young-dumb 🤓 Software Enginner from Pakistan PK
+  A young-dumb 🤓 Software Enginner from Pakistan
 </h2>
 </div>
 <br>
