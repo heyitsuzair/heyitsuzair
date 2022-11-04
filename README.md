@@ -1,4 +1,7 @@
 <div>
+<img src="me.jpg" />
+</div>
+<div>
 <h3 align="center">
   Hi 👋, I'm Muhammad Uzair
 </h3>
@@ -9,7 +12,7 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=uzair354123&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad Uzair" /> </p>
 
-- 💬 Ask me about **WordPress, PHP, Laravel, Express, React, React Native, Node, Tailwind CSS, JavaScript, MySQL, Bootstrap, MUi, Firebase, Sass**
+- 💬 Ask me about **WordPress, PHP, Laravel, Express, React, React Native, Node, Tailwind CSS, JavaScript, MySQL, Bootstrap, MUI, Firebase**
 
 - 📫 How to reach me **uzairdevil354123@gmail.com**
 
