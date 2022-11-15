@@ -34,4 +34,4 @@
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SaaS" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="40" height="40"/> </a>
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com?user=heyitsuzair&theme=Javascript-dark&border_radius=4&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+|[![GitHub Streak](https://streak-stats.demolab.com?user=heyitsuzair&theme=Javascript-dark&border_radius=4&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)|
