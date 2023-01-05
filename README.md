@@ -35,5 +35,5 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/> </a>
 <a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Typescript" width="40" height="40"/> </a>
-  <a href="https://stripe.com" target="_blank" rel="noreferrer"> <img src="https://media.designrush.com/inspiration_images/135143/conversions/_1510164528_150_social-mobile.jpg" alt="Typescript" width="40" height="40"/> </a>
+  <a href="https://stripe.com" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/03/Stripe-Emblem.png" alt="Stripe" width="40" height="40"/> </a>
 </p>
