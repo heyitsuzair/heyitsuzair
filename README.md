@@ -38,5 +38,5 @@
   <a href="https://stripe.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/2560px-Stripe_Logo%2C_revised_2016.svg.png" alt="Stripe" width="80" height="40" style="object-fit:cover;"/> </a>
  <a href="https://android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="Android" width="40" height="40" style="object-fit:cover;"/> </a>
    <a href="https://apple.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Android" width="40" height="40" style="object-fit:cover;"/> </a>
-    <a href="https://sanity.io" target="_blank" rel="noreferrer"> <img src="https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/50184/Aai4c5MTST6iUalYtSmY" alt="Sanity" width="80" height="40" style="object-fit:cover;"/> </a>
+    <a href="https://sanity.io" target="_blank" rel="noreferrer"> <img src="https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/50184/Aai4c5MTST6iUalYtSmY" alt="Sanity" width="100" height="40" style="object-fit:cover;"/> </a>
 </p>
