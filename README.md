@@ -39,4 +39,6 @@
  <a href="https://android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="Android" width="40" height="40" style="object-fit:cover;"/> </a>
    <a href="https://apple.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Android" width="40" height="40" style="object-fit:cover;"/> </a>
     <a href="https://sanity.io" target="_blank" rel="noreferrer"> <img src="https://dka575ofm4ao0.cloudfront.net/pages-favicon_logos/original/50184/Frame_2_%283%29.png" alt="Sanity" width="40" height="40" style="object-fit:cover;"/> </a>
+      <a href="https://https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="Postgres" width="40" height="40" style="object-fit:cover;"/> </a>
 </p>
+
