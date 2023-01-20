@@ -41,5 +41,6 @@
     <a href="https://sanity.io" target="_blank" rel="noreferrer"> <img src="https://dka575ofm4ao0.cloudfront.net/pages-favicon_logos/original/50184/Frame_2_%283%29.png" alt="Sanity" width="40" height="40" style="object-fit:cover;"/> </a>
       <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="Postgres" width="40" height="40" style="object-fit:cover;"/> </a>
       <a href="https://strapi.io" target="_blank" rel="noreferrer"> <img src="https://handbook.strapi.io/_next/image?url=https%3A%2F%2Fsuper-static-assets.s3.amazonaws.com%2Fe7c0f16c-8bd3-4c76-8075-4c86f986e1b2%2Fimages%2F3ac5bb2f-7aac-4c2f-932a-a5de3bb694b2.png&w=1920&q=80" alt="Strapi" width="40" height="40" style="object-fit:cover;"/> </a>
+        <a href="https://authorize.net" target="_blank" rel="noreferrer"> <img src="https://www.authorize.net/conf/anet-2021/settings/wcm/templates/en-us-home-page-template/structure/_jcr_content/root/header/logo.img.jpg/1623941357644.jpg" alt="Authorize.net" width="40" height="40" style="object-fit:cover;"/> </a>
 </p>
 
