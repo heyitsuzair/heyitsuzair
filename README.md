@@ -45,5 +45,6 @@
          <a href="https://socket.io" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" alt="Socket.io" width="40" height="40" style="object-fit:cover;"/> </a>
       <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40" style="object-fit:cover;"/> </a>
         <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="Nest" width="40" height="40" style="object-fit:cover;"/> </a>
+         <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL" width="40" height="40" style="object-fit:cover;"/> </a>
 </p>
 
