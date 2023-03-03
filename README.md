@@ -52,6 +52,6 @@
         <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40" style="object-fit:cover;"/> </a>
 </p>
 <p>
-### :fire: My Stats :
+  <h3 align="left">:fire: My Stats :</h3>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=heyitsuzair&theme=dark&background=000000)](https://git.io/streak-stats)
 </p>
