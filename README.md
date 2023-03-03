@@ -55,6 +55,6 @@
  <h3 align="left">:fire: My Stats :</h3>
   <div align="center">
     <img width="500" height="250" src="http://github-readme-streak-stats.herokuapp.com?user=heyitsuzair&theme=dark&background=000000" />
-    <img width="500" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitsuzair&layout=compact&theme=vision-friendly-dark" />
+    <img width="500" height="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitsuzair&layout=compact&theme=vision-friendly-dark" />
   </div>
 </p>
