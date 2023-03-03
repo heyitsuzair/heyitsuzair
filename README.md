@@ -53,6 +53,6 @@
 </p>
 <p>
   <h3 align="left">:fire: My Stats :</h3>
-<img src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=heyitsuzair&theme=dark&background=000000)](https://git.io/streak-stats)" />
-<img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyitsuzair&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=heyitsuzair&theme=dark&background=000000" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitsuzair&layout=compact&theme=vision-friendly-dark)" />
 </p>
