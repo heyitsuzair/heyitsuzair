@@ -52,6 +52,7 @@
       <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40" style="object-fit:cover;"/> </a>
         <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40" style="object-fit:cover;"/> </a>
       <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="NPM" width="40" height="40" style="object-fit:cover;"/> </a>
+      <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" style="object-fit:cover;"/> </a>
 </p>
 <p>
  <h3 align="left">:fire: My Stats :</h3>
