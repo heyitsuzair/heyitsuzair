@@ -2,7 +2,7 @@
 <img src="me.png" />
 </div>
 <div>
- <h3>⚡️ Here is a bit about me </h3>
+<h3>⚡️ Here is a bit about me </h3>
 <p><em>• JavaScript and TypeScript Developer who mostly works with different full stack technologies</em></p>
 <p><em>• Proficient technologies and tools: React.js, Next.js, Node.js, RESTful APIs, Firebase (Firestore), MongoDB, Git, VSCode</em></p>
 <p><em>• Has a knack for develoeming automation tools</em></p>
