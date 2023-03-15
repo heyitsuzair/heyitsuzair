@@ -12,9 +12,12 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=uzair354123&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad Uzair" /> </p>
 
-- 💬 Ask me about **WordPress, PHP, Laravel, Express, React, React Native, Node, Tailwind CSS, JavaScript, MySQL, Next JS, Firebase**
-
-- 📫 How to reach me **uzairdevil354123@gmail.com**
+• JavaScript and TypeScript Developer who mostly works with different full stack technologies
+• Proficient technologies and tools: React.js, Next.js, Node.js, RESTful APIs, Firebase (Firestore), MongoDB, Git, VSCode
+• Has a knack for developing automation tools
+• Ask me about **WordPress, PHP, Laravel, Express, React, React Native, Node, Tailwind CSS, JavaScript, MySQL, Next JS, Firebase, Python**
+• How to reach me **uzairdevil354123@gmail.com**
+• Technical Writer at <a href="dev.to/heyitsuzair">Dev.to</a>
 
 
 <h3 align="left">Connect with me:</h3>
