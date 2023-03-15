@@ -3,24 +3,11 @@
 </div>
 <div>
  <h3>⚡️ Here is a bit about me </h3>
-<p>
-• JavaScript and TypeScript Developer who mostly works with different full stack technologies
-</p>
-<p>
-• Proficient technologies and tools: React.js, Next.js, Node.js, RESTful APIs, Firebase (Firestore), MongoDB, Git, VSCode
-  </p>
-  <p>
-• Has a knack for developing automation tools
-  </p>
-  <p>
-• Ask me about **WordPress, PHP, Laravel, Express, React, React Native, Node, Tailwind CSS, JavaScript, MySQL, Next JS, Firebase, Python**
-  </p>
-  <p>
-• How to reach me **uzairdevil354123@gmail.com**
-  </p>
-  <p>
-• Technical Writer at <a href="dev.to/heyitsuzair">Dev.to</a>
-  </p>
+<p>• JavaScript and TypeScript Developer who mostly works with different full stack technologies</p>
+<p>• Proficient technologies and tools: React.js, Next.js, Node.js, RESTful APIs, Firebase (Firestore), MongoDB, Git, VSCode</p>
+<p>• Has a knack for developing automation tools</p>
+<p>• How to reach me <a href="mailto:uzairdevil354123@gmail.com">uzairdevil354123@gmail.com</a></p>
+<p>• Technical Writer at <a href="dev.to/heyitsuzair">Dev.to</a></p>
 
 
 <h3 align="left">Connect with me:</h3>
