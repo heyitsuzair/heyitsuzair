@@ -7,7 +7,7 @@
   <p><em>● Proficient technologies and tools: React.js, Next.js, Node.js, RESTful APIs, Firebase (Firestore), MongoDB, Git, VSCode</em></p>
   <p><em>● Has a knack for develoeming automation tools</em></p>
   <p><em>● How to reach me <a href="mailto:uzairdevil354123@gmail.com">uzairdevil354123@gmail.com</a></em></p>
-  <p><em>● Technical Writer at <a href="dev.to/heyitsuzair">Dev.to</a></em></p>
+  <p><em>● Technical Writer at <a href="//dev.to/heyitsuzair">Dev.to</a></em></p>
 
 
 <h3 align="left">Connect with me:</h3>
