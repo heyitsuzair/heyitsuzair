@@ -5,7 +5,7 @@
 <h3>⚡️ Here is a bit about me </h3>
   <p><em>● JavaScript and TypeScript Developer who mostly works with different full stack technologies</em></p>
   <p><em>● Proficient technologies and tools: React.js, Next.js, Node.js, RESTful APIs, Firebase (Firestore), MongoDB, Git, VSCode</em></p>
-  <p><em>● Has a knack for develoeming automation tools</em></p>
+  <p><em>● Has a knack for developing automation tools</em></p>
   <p><em>● How to reach me <a href="mailto:uzairdevil354123@gmail.com">uzairdevil354123@gmail.com</a></em></p>
   <p><em>● Technical Writer at <a href="//dev.to/heyitsuzair">Dev.to</a></em></p>
 
