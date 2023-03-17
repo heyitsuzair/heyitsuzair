@@ -49,6 +49,7 @@
       <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" style="object-fit:cover;"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="object-fit:cover;"/> </a>
    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" style="object-fit:cover;"/> </a>
+   <a href="https://jamstack.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jamstack/jamstack-original-wordmark.svg" alt="AWS" width="40" height="40" style="object-fit:cover;"/> </a>
 </p>
 <p>
  <h3 align="left">:fire: My Stats :</h3>
