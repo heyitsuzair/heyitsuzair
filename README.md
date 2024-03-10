@@ -9,6 +9,7 @@
   <p><em>● How to reach me <a href="mailto:uzairdevil354123@gmail.com">uzairdevil354123@gmail.com</a></em></p>
   <p><em>● Technical Writer at <a href="//dev.to/heyitsuzair">Dev.to</a></em></p>
   <p><em>● <a href="https://github.com/vercel/next.js/">Next JS</a> Core Contributor (2023 - Present)</em></p>
+  <p><em>● <a href="https://github.com/vercel/next.js/">GDSC Web Lead </a> (2023 - 24)</em></p>
 
 
 <h3 align="left">Connect with me:</h3>
