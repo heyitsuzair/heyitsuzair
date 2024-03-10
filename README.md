@@ -9,7 +9,9 @@
   <p><em>● How to reach me <a href="mailto:uzairdevil354123@gmail.com">uzairdevil354123@gmail.com</a></em></p>
   <p><em>● Technical Writer at <a href="//dev.to/heyitsuzair">Dev.to</a></em></p>
   <p><em>● <a href="https://github.com/vercel/next.js/">Next JS</a> Core Contributor (2023 - Present)</em></p>
-  <p><em>● <a href="https://github.com/vercel/next.js/">GDSC Web Lead </a> (2023 - 24)</em></p>
+  <p><em>● <a href="[https://github.com/vercel/next.js/](https://gdsc.community.dev/university-of-management-and-technology-umt-lahore/)">GDSC Web Lead </a> (2023 - 24)</em></p>
+  <p><em>● <a href="https://youtube.com/playlist?list=PL51tcFoTrewkb2DYJTX6X0ecJYqym_l-w&feature=shared">Conducted Web Bootcamp </a> (5 Days)</em></p>
+
 
 
 <h3 align="left">Connect with me:</h3>
