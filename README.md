@@ -1,5 +1,5 @@
 <div>
-  <img src="jpeg" alt="heyitsuzair"/>
+  <img src="me.jpeg" alt="heyitsuzair"/>
 </div>
 <div>
 <h3>⚡️ Here is a bit about me </h3>
